@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  }
+  *,*:before,*:after{
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  :focus,:active{outline: none;}
+  a:focus,a:active{outline: none;}
+
+  nav, footer,header,aside{display: block;}
+
+  html,body{
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+  input,button,textarea{font-family: inherit;}
+
+  input::-ms-clear{display: none;}
+  button{cursor: pointer;}
+  button::-moz-focus-inner {padding: 0;border: 0;}
+  a, a:visited{text-decoration: none;}
+  a:hover{text-decoration: none;}
+  ul li{list-style: none;}
+  img{vertical-align: top;}
+  h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+body{
+  padding: 30px;
+  background: url('https://vk.com/doc255361242_651050304?hash=yKT8G4bOGnbFya44ErVGw9lma8RTfQzV65Wq5jlyBqw&dl=UpcSmsrpk90P9Zg3VGsNVb1jhvWpSZm6tt0RuDYdiuD&wnd=1&module=im') 0 0 no-repeat;
+  height: 100%;
+  width: 100%;
+}
+.block {
+  max-width: 800px;
+  margin: 0px auto;
+  height: 800px;
+}
+.block__1 {
+  line-height:50px;
+  height: 200px;
+  width: 380px;
+  font-weight: 300;
+  text-align: center;
+  background: url('https://sun9-19.userapi.com/impg/UV7hG2xmAGWh8_DUgXTPw_MDrW_pRiHxCZ-IQw/BjZI8su6FiE.jpg?size=384x234&quality=95&sign=a8f4f7f09c55513df8c83faa7a896bb7&type=album')0 0 no-repeat;
+  position: relative;
+  left: -230px;
+  top: 700px;
+  border: 3px solid #000;
+  color: white;
+  font-size: 40px;
+  border-radius:20px;
+  box-shadow: 20px 20px 30px #000;
+  opacity: 0.3;
+  border: 3px solid #000;
+  font-family: 'Cormorant Unicase';
+}
+.block__2 {
+  line-height: 28px;
+  height: 350px;
+  width: 390px;
+  background: url('https://sun9-80.userapi.com/impg/3ii-UKOQh6VWzXQoXHvX9kZ0BGC0ADaYvJ1ucA/hEWmmKATaeE.jpg?size=750x422&quality=96&sign=b187f760d0a928fc3b3e2395ec4d2994&type=album') 0 0 no-repeat;
+  font-weight: 400;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  left: -230px;
+  color: white;
+  font-size: 38px; 
+  border-radius: 20px;
+  box-shadow: 20px 20px 30px #000;
+  opacity: 0.3;
+  border: 3px solid #000;
+  font-family: 'Cormorant Unicase';
+}
+.block__3 {
+  line-height: 200px;
+  height: 200px;
+  width: 400px;
+  background: url(https://sun9-12.userapi.com/impg/w01z90C0ZPuEbNefDGnpD4M2_2EPHIdIUSAPgA/VXZQ0vwzNZM.jpg?size=500x321&quality=96&sign=447fc94f1529fe3feadf995442c2aa0f&type=album)-40px -60px no-repeat;
+  font-size: 18px;
+  font-weight: 900;
+  text-align: center;  
+  border-radius: 20px;
+  box-shadow: 20px 20px 30px #000;
+  padding: 0 0 0 0 ;
+  margin: 0 33%;
+  opacity: 0.3;
+  position: relative;
+  top:-540px;
+  left: -70px;
+  color: black;
+  border: 3px solid #000;
+  font-family: 'Cormorant Unicase';
+}
+.block__4 {
+  line-height: 42px;
+  height: 650px;
+  width: 720px;
+  background: url(https://sun9-83.userapi.com/impg/rOb0o-f94hDl5jPUmC7agGEIw0_GPHQzEzmu0w/CKQ_SVF220w.jpg?size=716x1080&quality=95&sign=482db63c3b12596394519b39a08802f0&type=album)0px -300px no-repeat;
+  font-size: 40px;
+  font-weight: 400;
+  text-align: center;
+  position: relative;
+  bottom: 510px;
+  left: 300px;
+  border-radius: 20px;
+  color: white;
+  box-shadow: 20px 20px 30px #000;
+  opacity: 0.3;
+  border: 3px solid #000;
+  font-family: 'Cormorant Unicase';
+
+}
+.block__1:hover {
+  opacity: 1;
+  box-shadow: 40px 30px 100px #EEE;
+}
+.block__2:hover {
+  opacity: 1;
+  box-shadow: 40px 30px 100px #EEE;
+}
+.block__3:hover {
+  opacity: 1;
+  box-shadow: 40px 30px 100px #EEE;
+}
+.block__4:hover {
+  opacity: 1;
+  box-shadow: 40px 30px 100px #EEE;
+}
+.block__1:active{
+  background: url(https://media.tenor.com/3fm2I_6ld8sAAAAM/guts-berserk-alperen.gif) 100% 100%  ;
+  width: 220px;
+  height: 198px;
+  margin: 15px 0 0 90px;
+}
+.block__2:active{
+  background: url(https://64.media.tumblr.com/0424df05ad4420eecad192ac87d48f51/5aafb4ad9798534d-d5/s540x810/a9e42ebc4a81ae6bf49ee437ed3e1f0bc74d2814.gifv) 70% 50% no-repeat;
+  height: 250px;
+  width: 400px;
+  margin: 60px 0 0 0 ;
+}
+.block__3:active{
+  background: url('https://64.media.tumblr.com/23e337f6ca68959c3636700638bd8b45/5aafb4ad9798534d-6d/s540x810/e11ee9ac20135ff9c3899d32ca43ab62598ca313.gifv')40% 70% no-repeat ;
+}
+.block__4:active{
+  background: url(https://64.media.tumblr.com/783f496c3d6c4528b5d5afaa8c6e461c/d29a8d2331158bb9-1a/s500x750/4808b441f807200dc60cc3a637810974d2282e36.gifv)50% 50% no-repeat;
+  width:498px ;
+  height:374px ;
+  box-shadow:40px 30px 100px #8a0303;
+  margin: 150px 0 0 80px;
+}
+p:active{
+  display: none;
+}
+p{
+  opacity: 0.0;
+}
+p:hover{
+  opacity: 1;
+}
